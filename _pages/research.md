@@ -11,21 +11,27 @@ I investigate how climate and tectonics control the structure and organisation o
 
 ![](/images/google-earth-view-2042.jpg "River networks from Google Earth View")
 
+---
+
 ### Landscapes and tectonics along the San Andreas Fault
 
-<img src="/images/field_site.png" alt="Basins along the Mendocino Triple Junction" width="500" align="right"/>
 I'm interested in understanding how the shape of the topography is related to the tectonic motion along the San Andreas Fault.  I’m currently working at the Mendocino Triple Junction, California, where there is a large variation in uplift rates along the strike of the fault.
 
 I'm analysing a series of river basins along the Californian coast where uplift varies from a maximum of 4 mm/year at Cape Mendocino, to 0.5 mm/year near Fort Bragg. I’m looking to see whether we can detect a signature of this change in the steepness of the rivers, hillslopes, and hilltops.
 
 Alongside this work, I am also interested in understanding how the morphology of river profiles along the entire San Andreas fault is related to both long-term uplift rates from thermochronometry, and short-term uplift rates from GPS data.  More on this coming soon!
 
+![](/images/san_andreas.jpg "Aerial view of the San Andreas fault")
+
+---
 
 ### Clustering techniques for river profiles
 
 As part of my post-doctoral work at the University of Potsdam, I’m working on developing techniques for clustering river profiles to identify landscape heterogeneity, such as varying rock types or climatic and tectonic gradients. I separate the river network by stream order, and then use agglomerative hierarchical clustering to find groups of streams with similar morphologies.  This technique has lots of exciting applications, including mapping of landscape transience, detection of debris flow domains from topography, and improving our ability to map channel steepness.
 
 The code for the clustering is freely available on [GitHub](https://github.com/UP-RS-ESP/river-clusters). Tutorials for how to run it are coming soon!
+
+---
 
 ### Landscape evolution modelling
 
@@ -40,6 +46,8 @@ I have been running some simple models with varying bedrock lithology to test my
 </figure>
 
 _Top half of the model domain is a harder rock type, bottom half is a softer rock type. Note the difference in dissection time between the two!_
+
+---
 
 ## Open source software for topographic analysis
 
