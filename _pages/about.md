@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Earth surface processes and topography
+# Earth surface processes and geohazards at Durham University
 
 I am a geomorphologist studying the interactions between the shape of Earth's topography, surface processes, tectonics, and climate.  Please see my [Research](/research/index.html) page for details of past, future, and current projects.
 
@@ -24,3 +24,5 @@ A large part of my research is developing open-source software for analysing top
 ## Opportunities
 
 I'm currently interested in recruiting for PhD and post-doctoral positions in fluvial geomorphology, geohazards, and topographic analysis. Please get in touch with ideas for potential projects and we can discuss funding opportunities.
+
+Durham University is part of the NERC-funded IAPETUS2 DTP, which has a number of PhD studentships available each year. See the [IAPETUS2 website](http://www.iapetus.ac.uk) for more details of available projects and deadlines
