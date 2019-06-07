@@ -21,7 +21,7 @@ I'm analysing a series of river basins along the Californian coast where uplift 
 
 Alongside this work, I am also interested in understanding how the morphology of river profiles along the entire San Andreas fault is related to both long-term uplift rates from thermochronometry, and short-term uplift rates from GPS data.  More on this coming soon!
 
-![](/images/san_andreas.jpg "Aerial view of the San Andreas fault")
+<img src="/images/san_andreas.jpg" alt="san andreas" width="1000"/>
 
 ---
 
@@ -29,7 +29,7 @@ Alongside this work, I am also interested in understanding how the morphology of
 
 As part of my post-doctoral work at the University of Potsdam, I’m working on developing techniques for clustering river profiles to identify landscape heterogeneity, such as varying rock types or climatic and tectonic gradients. I separate the river network by stream order, and then use agglomerative hierarchical clustering to find groups of streams with similar morphologies.  This technique has lots of exciting applications, including mapping of landscape transience, detection of debris flow domains from topography, and improving our ability to map channel steepness.
 
-The code for the clustering is freely available on [GitHub](https://github.com/UP-RS-ESP/river-clusters). Tutorials for how to run it are coming soon!
+The code for the clustering is freely available on [GitHub](https://github.com/UP-RS-ESP/river-clusters). Tutorials for how to run it are coming soon.
 
 ---
 
@@ -37,7 +37,7 @@ The code for the clustering is freely available on [GitHub](https://github.com/U
 
 I like to use numerical models of landscape evolution to test new techniques for analysing topography. I'm a big fan of the [Fastscape](https://github.com/fastscape-lem) model, as well as our own implementation of the Fastscape algorithm in [MuddPILE](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_MuddPILE.html).
 
-I have been running some simple models with varying bedrock lithology to test my clustering algorithm.  See below for an example of how different the speed of propagation of transient signals through a river network can be based on a simple change in erodibility!
+I have been running some simple models with varying bedrock lithology to test my clustering algorithm.  See below for an example of how different the speed of propagation of transient signals through a river network can be based on a simple change in erodibility.
 
 <figure class="video_container">
 <video width="500" height="340" controls="true">
@@ -45,7 +45,7 @@ I have been running some simple models with varying bedrock lithology to test my
 </video>
 </figure>
 
-_Top half of the model domain is a harder rock type, bottom half is a softer rock type. Note the difference in dissection time between the two!_
+_Top half of the model domain is a harder rock type, bottom half is a softer rock type. Note the difference in dissection time between the two._
 
 ---
 

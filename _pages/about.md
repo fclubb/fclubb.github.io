@@ -14,5 +14,13 @@ I am a geomorphologist studying the interactions between the shape of Earth's to
 
 A large part of my research is developing open-source software for analysing topographic data. I particularly focus on dealing with high-resolution data derived from lidar point clouds.  I’ve been developing this software, called LSDTopoTools, along with colleagues at the University of Edinburgh,  University of Glasgow, and Queen Mary University of London. See our [LSDTopoTools website](lsdtopotools.github.io) for more details, or check out our [GitHub organisation](https://github.com/LSDtopotools). We have developed lots of novel techniques for analysing topography, such as extracting channel networks, delineating floodplains and river terraces, and calculating hilltop and hillslope metrics.
 
-![](/images/le_sueur_terraces.png)
-_River terraces along the Le Sueur River, Minnesota, automatically extracted using LSDTopoTools_
+<img src="/images/le_sueur_terraces.png" alt="le sueur" width="1000"/>
+
+<p align ="center">
+<i>River terraces along the Le Sueur River, Minnesota, automatically extracted using LSDTopoTools</i>
+</p>
+
+---
+## Opportunities
+
+I'm currently interested in recruiting for PhD and post-doctoral positions in fluvial geomorphology, geohazards, and topographic analysis. Please get in touch with ideas for potential projects and we can discuss funding opportunities.
