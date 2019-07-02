@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2019
 
-Hurst. M.D. Grieve, S.W.D., **Clubb, F.J.**, and Mudd, S.M. (2019) Coupling of hillslopes and channels reveal landscape response to a migrating tectonic gradient, _EPSL_, 522, 30-39, doi:10.1016/j.epsl.2019.06.018
+Hurst. M.D. Grieve, S.W.D., **Clubb, F.J.**, and Mudd, S.M. (2019) Detection of channel-hillslope coupling along a tectonic gradient, _EPSL_, 522, 30-39, doi:10.1016/j.epsl.2019.06.018
 
 **Clubb, F.J.**, Bookhagen, B., and Rheinwalt, A. (2019) Clustering river profiles to classify geomorphic domains, _Journal of Geophysical Research: Earth Surface_, doi:10.1029/2019JF005025
 
