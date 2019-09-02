@@ -42,6 +42,7 @@ fieldwork.
 
 Invited Talks
 ======
+* Clustering river profiles to classify landscape domains, Imaging the Environment workshop, Queen Mary University of London, September 2019
 * Linking topography and tectonics along the San Andreas Fault, Hutton Club, University of Edinburgh, March 2019
 * Clustering river networks in heterogeneous landscapes, GFZ Potsdam, February 2019
 * New techniques for clustering river profiles: examples from real and synthetic landscapes. A2 Advancing the Analysis of High Resolution Topographic Data, UNAVCO/NCALM workshop, August 2018
