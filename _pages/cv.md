@@ -43,7 +43,7 @@ fieldwork.
 
 Invited Talks
 ======
-* Linking tectonics and topography along the San Andreas fault, AGU Fall Meeting 2019, Session EP21A- Advances in Tectonic Geomorphology: The Interplay of Tectonics, Climate, and Surface Processes https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/489425
+* Linking tectonics and topography along the San Andreas fault, AGU Fall Meeting 2019, Session EP21A- Advances in Tectonic Geomorphology: The Interplay of Tectonics, Climate, and Surface Processes [Link to paper](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/489425)
 * Clustering river profiles to classify landscape domains, Imaging the Environment workshop, Queen Mary University of London, September 2019
 * Linking topography and tectonics along the San Andreas Fault, Hutton Club, University of Edinburgh, March 2019
 * Clustering river networks in heterogeneous landscapes, GFZ Potsdam, February 2019
