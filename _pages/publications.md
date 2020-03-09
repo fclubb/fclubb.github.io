@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2019
+## 2020
 
-**Clubb, F.J**, Mudd, S.M., Hurst, M.D., and Grieve, S.W.D. (2019) Differences in channel and hillslope geometry record a migrating uplift wave at the Mendocino Triple Junction, _Geology_, doi:10.1130/G46939.1
+**Clubb, F.J**, Mudd, S.M., Hurst, M.D., and Grieve, S.W.D. (2020) Differences in channel and hillslope geometry record a migrating uplift wave at the Mendocino Triple Junction, _Geology_, 48(2), 184-188, doi:10.1130/G46939.1
+
+## 2019
 
 Hurst. M.D. Grieve, S.W.D., **Clubb, F.J.**, and Mudd, S.M. (2019) Detection of channel-hillslope coupling along a tectonic gradient, _EPSL_, 522, 30-39, doi:10.1016/j.epsl.2019.06.018
 
