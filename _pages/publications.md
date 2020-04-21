@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2020
 
+Grieve, S.W.D., **Clubb, F.J.** and Mudd, S.M. (2020) Reproducible topographic analysis, in Tarolli, P. and Mudd, S.M. (eds) _Remote Sensing of Geomorphology_. _Developments in Earth Surface Processes_ 23, 369-380, Elsevier.
+
 **Clubb, F.J**, Mudd, S.M., Hurst, M.D., and Grieve, S.W.D. (2020) Differences in channel and hillslope geometry record a migrating uplift wave at the Mendocino Triple Junction, _Geology_, 48(2), 184-188, doi:10.1130/G46939.1
 
 ## 2019
