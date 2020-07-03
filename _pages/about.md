@@ -27,7 +27,7 @@ I'm currently interested in recruiting for PhD and post-doctoral positions in fl
 
 ### Post-doctoral fellowships
 
-There are a number of different fellowships which are available to apply for to come and work at Durham University. Please note that all these schemes are competitive and require a strong CV and project idea. I'm happy to help support interested candidates! Potential schemes are:
+There are a number of different fellowships which you can apply for to work at Durham University. Please note that all these schemes are competitive and require a strong CV and project idea. I'm happy to help support interested candidates! Potential schemes are:
 
 * Addison Wheeler Fellowships: 3 years funding for early stage researchers who have already achieved a PhD. Deadline is around February each year: [more information](https://www.dur.ac.uk/ias/addisonwheelerfellowships/)
 * Newton International Fellowships: 2 years for non-UK researchers who wish to work in the UK: [more information](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
