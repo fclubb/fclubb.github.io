@@ -25,4 +25,14 @@ A large part of my research is developing open-source software for analysing top
 
 I'm currently interested in recruiting for PhD and post-doctoral positions in fluvial geomorphology, geohazards, and topographic analysis. Please get in touch with ideas for potential projects and we can discuss funding opportunities.
 
+### Post-doctoral fellowships
+
+There are a number of different fellowships which are available to apply for to come and work at Durham University. Please note that all these schemes are competitive and require a strong CV and project idea. I'm happy to help support interested candidates! Potential schemes are:
+
+* Addison Wheeler Fellowships: 3 years funding for early stage researchers who have already achieved a PhD. Deadline is around February each year: [more information](https://www.dur.ac.uk/ias/addisonwheelerfellowships/)
+* Newton International Fellowships: 2 years for non-UK researchers who wish to work in the UK: [more information](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
+* Leverhulme Early Career Fellowships: 3 years funding for early stage researchers: [more information](https://www.leverhulme.ac.uk/early-career-fellowships)
+
+### PhD opportunities
+
 Durham University is part of the NERC-funded IAPETUS2 DTP, which has a number of PhD studentships available each year. See the [IAPETUS2 website](http://www.iapetus.ac.uk) for more details of available projects and deadlines.

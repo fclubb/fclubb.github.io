@@ -23,7 +23,7 @@ I'm analysing a series of river basins along the Californian coast where uplift 
 
 Alongside this work, I am also interested in understanding how the morphology of river profiles along the entire San Andreas fault is related to both long-term uplift rates from thermochronometry, and short-term uplift rates from GPS data.
 
-You can watch a talk I gave on this research here:
+You can watch a talk I gave on this research as part of the [Landscapes Live](https://osur.univ-rennes1.fr/LandscapesLive/) online seminar series here:
 
 [![Landscapes Live Seminar](http://img.youtube.com/vi/zPFLuPouSLk/0.jpg)](http://www.youtube.com/watch?v=zPFLuPouSLk "Landscapes Live Seminar")
 ---
