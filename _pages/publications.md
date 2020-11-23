@@ -32,4 +32,6 @@ Grieve, S.W.D., Mudd, S.M., Milodowski, D.T., **Clubb, F.J.**, and Furbish, D.J.
 
 ## Book chapters
 
+Mudd, S.M., Roda-Boluda, D.C., Goren, L., and **Clubb, F.J.** (in press) Beyond the long profile, in Wohl, E. (ed) _Treatise for Geomorphology: Fluvial Geomorphology_, Elsevier.
+
 Grieve, S.W.D., **Clubb, F.J.** and Mudd, S.M. (2020) Reproducible topographic analysis, in Tarolli, P. and Mudd, S.M. (eds) _Remote Sensing of Geomorphology_. _Developments in Earth Surface Processes_ 23, 369-380, Elsevier.

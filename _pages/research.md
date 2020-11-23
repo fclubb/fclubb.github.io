@@ -30,7 +30,7 @@ You can watch a talk I gave on this research as part of the [Landscapes Live](ht
 
 ### Clustering techniques for river profiles
 
-As part of my post-doctoral work at the University of Potsdam, I’m working on developing techniques for clustering river profiles to identify landscape heterogeneity, such as varying rock types or climatic and tectonic gradients. I separate the river network by stream order, and then use agglomerative hierarchical clustering to find groups of streams with similar morphologies.  This technique has lots of exciting applications, including mapping of landscape transience, detection of debris flow domains from topography, and improving our ability to map channel steepness.
+As part of my post-doctoral work at the University of Potsdam, I developed techniques for clustering river profiles to identify landscape heterogeneity, such as varying rock types or climatic and tectonic gradients. I separate the river network by stream order, and then use agglomerative hierarchical clustering to find groups of streams with similar morphologies.  This technique has lots of exciting applications, including mapping of landscape transience, detection of debris flow domains from topography, and improving our ability to map channel steepness.
 
 The code for the clustering is freely available on [GitHub](https://github.com/UP-RS-ESP/river-clusters). Tutorials for how to run it are coming soon.
 

@@ -35,4 +35,10 @@ There are a number of different fellowships which you can apply for to work at D
 
 ### PhD opportunities
 
-Durham University is part of the NERC-funded IAPETUS2 DTP, which has a number of PhD studentships available each year. See the [IAPETUS2 website](http://www.iapetus.ac.uk) for more details of available projects and deadlines.
+Durham University is part of the NERC-funded IAPETUS2 DTP, which has a number of PhD studentships available each year. See the [IAPETUS2 website](http://www.iapetus.ac.uk) for more details of available projects and deadlines. You can see more details for a project on investigating links between tectonics, climate and topography in the Himalayas [here](https://www.iapetus2.ac.uk/studentships/rivers-in-the-himalayas-investigating-links-between-tectonics-climate-and-topography/). Please contact me if you're interested in applying to this project.
+
+---
+## Current students
+
+* **Mel Oliveira-Guirro**, University of Durham, co-supervised with Dr. Rebecca Hodge and Dr. Laura Turnbull-Lloyd: _Scaling sediment connectivity in fluvial systems_
+* **Anya Towers**, University of Edinburgh, co-supervised with Prof. Simon Mudd, Dr. Mikael Attal, and the Scottish Environmental Protection Agency: _The role of coarse sediment in Scottish rivers_
