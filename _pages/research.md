@@ -10,7 +10,8 @@ author_profile: true
 I investigate how climate and tectonics control the structure and organisation of fluvial networks, such as the drainage density, channel steepness, and planform geometry of networks. I use high-resolution topographic data to explore the links between climate, tectonics, and fluvial network structure from a range of landscapes.
 
 ![](/images/google-earth-view-2042.jpg "River networks from Google Earth View")
-Credit: Google Earth View
+_Credit: Google Earth View_
+
 ---
 
 ### Landscapes and tectonics along the San Andreas Fault
@@ -22,7 +23,7 @@ I'm analysing a series of river basins along the Californian coast where uplift 
 Alongside this work, I am also interested in understanding how the morphology of river profiles along the entire San Andreas fault is related to both long-term uplift rates from thermochronometry, and short-term uplift rates from GPS data.
 
 <img src="/images/san_andreas.jpg" alt="san andreas" width="1000"/>
-Credit: U.S. Geological Survey
+_Credit: U.S. Geological Survey_
 
 You can watch a talk I gave on this research as part of the [Landscapes Live](https://osur.univ-rennes1.fr/LandscapesLive/) online seminar series here:
 
