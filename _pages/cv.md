@@ -55,6 +55,7 @@ Invited Talks
 
 Service
 ======
+* Research Secretary, British Society for Geomorphology Research Subcommittee, 2020-2023
 * Co-convener, EGU General Assembly 2019. Making high resolution topographic analysis more reproducible with LSDTopoTools, Short Course.
 * Convener, EGU General Assembly 2019. Session GM2.5/SSP3.28./SSS13.19/TS4.10: Bridging the gap: combining numerical models of surface processes with Earth observations
 * Convener, EGU General Assembly 2018. Session GM2.5/SSP3.28./SSS13.19/TS4.10: Modelling erosion
