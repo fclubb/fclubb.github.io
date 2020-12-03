@@ -15,13 +15,13 @@ I investigate how climate and tectonics control the structure and organisation o
 
 ### Landscapes and tectonics along the San Andreas Fault
 
-<img src="/images/san_andreas.jpg" alt="san andreas" width="1000"/>
-
 I'm interested in understanding how the shape of the topography is related to the tectonic motion along the San Andreas Fault.  I’m currently working at the Mendocino Triple Junction, California, where there is a large variation in uplift rates along the strike of the fault.
 
 I'm analysing a series of river basins along the Californian coast where uplift varies from a maximum of 4 mm/year at Cape Mendocino, to 0.5 mm/year near Fort Bragg. I’m looking to see whether we can detect a signature of this change in the steepness of the rivers, hillslopes, and hilltops.
 
 Alongside this work, I am also interested in understanding how the morphology of river profiles along the entire San Andreas fault is related to both long-term uplift rates from thermochronometry, and short-term uplift rates from GPS data.
+
+<img src="/images/san_andreas.jpg" alt="san andreas" width="1000"/>
 
 You can watch a talk I gave on this research as part of the [Landscapes Live](https://osur.univ-rennes1.fr/LandscapesLive/) online seminar series here:
 
@@ -38,7 +38,7 @@ The code for the clustering is freely available on [GitHub](https://github.com/U
 
 ### Landscape evolution modelling
 
-I like to use numerical models of landscape evolution to test new techniques for analysing topography. I'm a big fan of the [Fastscape](https://github.com/fastscape-lem) model, as well as our own implementation of the Fastscape algorithm in [MuddPILE](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_MuddPILE.html).
+I like to use numerical models of landscape evolution to test new techniques for analysing topography. I'm a fan of the [Fastscape](https://github.com/fastscape-lem) model, as well as our own implementation of the Fastscape algorithm in [MuddPILE](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_MuddPILE.html).
 
 I have been running some simple models with varying bedrock lithology to test my clustering algorithm.  See below for an example of how different the speed of propagation of transient signals through a river network can be based on a simple change in erodibility.
 
