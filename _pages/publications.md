@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal articles
 
-Gailleton, B., Mudd, S.M., **Clubb, F.J.**, Grieve, S.W.D., and Hurst, M.D. (in review) Impact of changing concavity indices on channel steepness and divide migration metrics, _Journal of Geophysical Research: Earth Surface_, doi:10.1002/essoar.10505724.1 (preprint)
+Gailleton, B., Mudd, S.M., **Clubb, F.J.**, Grieve, S.W.D., and Hurst, M.D. (in review) Impact of changing concavity indices on channel steepness and divide migration metrics, _Journal of Geophysical Research: Earth Surface_, [doi:10.1002/essoar.10505724.1](https://doi.org/10.1002/essoar.10505724.1) (preprint)
 
 **Clubb, F.J**, Mudd, S.M., Hurst, M.D., and Grieve, S.W.D. (2020) Differences in channel and hillslope geometry record a migrating uplift wave at the Mendocino Triple Junction, _Geology_, 48(2), 184-188, doi:10.1130/G46939.1
 
