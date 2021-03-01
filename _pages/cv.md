@@ -28,6 +28,7 @@ Education
 
 Grants and Awards
 ======
+* Code for Science and Society Event Fund, 2020. Reproducible Silicon Landscapes: $18,187. Co-Lead Investigator.
 * British Society for Geomorphology Early Career Researcher Grant, 2019. Determining the topographic signature of debris flows: £3,500.
 * GeoX Young Academy Fellowship, Fusion of high-resolution point cloud and spectral data for deriving
 topographic metrics, January 2018 - December 2019.
