@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/active-tectonics
 venue: "Department of Geography, Durham University"
-date: 2020
+date: 2021-03-04
 location: "Durham, UK"
 ---
 
