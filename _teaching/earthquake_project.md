@@ -1,7 +1,7 @@
 ---
 title: "Exploring historical earthquake records using Python"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate project"
 permalink: /teaching/active-tectonics
 venue: "Department of Geography, Durham University"
 date: 2021-03-04
