@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:80e3e821a91e9ac9192fddc63a5b68236b405836c9adb762d8db0f533938536d
-size 211
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+

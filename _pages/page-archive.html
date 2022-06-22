@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a9b4d43d543d95ee96cd6b3cfb26a6062143038599cc6fe9e55dc98e625e23c
-size 206
+---
+layout: archive
+title: "Page Archive"
+permalink: /page-archive/
+author_profile: false
+---
+
+{% include base_path %}
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
