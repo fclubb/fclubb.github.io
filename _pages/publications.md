@@ -7,7 +7,9 @@ author_profile: true
 
 ## Journal articles
 
-Gailleton, B., Mudd, S.M., **Clubb, F.J.**, Grieve, S.W.D., and Hurst, M.D. (2021) Impact of changing concavity indices on channel steepness and divide migration metrics, _Journal of Geophysical Research: Earth Surface_, doi:10.1029/2020JF006060
+**Clubb, F.J.**, Weir. E.F., and Mudd. S.M. (2022) Continuous measurements of valley floor width in mountainous landscapes, _Earth Surface Dynamics_ [](https://doi.org/10.5194/esurf-10-437-2022)
+
+Gailleton, B., Mudd, S.M., **Clubb, F.J.**, Grieve, S.W.D., and Hurst, M.D. (2021) Impact of changing concavity indices on channel steepness and divide migration metrics, _Journal of Geophysical Research: Earth Surface_, [](https://doi.org/10.1029/2020JF006060)
 
 **Clubb, F.J**, Mudd, S.M., Hurst, M.D., and Grieve, S.W.D. (2020) Differences in channel and hillslope geometry record a migrating uplift wave at the Mendocino Triple Junction, _Geology_, 48(2), 184-188, doi:10.1130/G46939.1
 
