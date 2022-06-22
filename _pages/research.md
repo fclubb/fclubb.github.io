@@ -13,6 +13,20 @@ I investigate how climate and tectonics control the structure and organisation o
 _Credit: Google Earth View_
 
 ---
+### Valley width in mountain landscapes
+
+Valleys are an important component of mountain landscapes: they store sediment, control the extent of flood waters and buffer the response time of the landscape to external perturbations, such as changes in climate. Despite their importance, our understanding of the extent and geometry of valleys in mountain systems is lacking. This is partly because it is difficult to measure valleys over large spatial scales.
+
+I have developed a new technique for mapping valleys and measuring valley width automatically from digital elevation models. This provides exciting new opportunities to explore how valley widening occurs, and how it is controlled by external factors such as climate and tectonics.
+
+You can read more about the method [in this paper.](https://esurf.copernicus.org/articles/10/437/2022/esurf-10-437-2022.html)
+
+To see some interactive examples of measuring valley widths, use the following links:
+
+  * [Examples of valley widths for individual channels: UK and USA](/valleys/uk-usa-examples)
+  * [Valley widths across the Himalayan orogen](/valleys/himalayan-orogen)
+  
+---
 
 ### Landscapes and tectonics along the San Andreas Fault
 

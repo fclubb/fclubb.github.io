@@ -1,17 +1,3 @@
----
-layout: archive
-permalink: /tags/
-title: "Posts by Tags"
-author_profile: true
----
-
-{% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
-
-{% for tag in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4fdf4f2e3214b6dbb4afb8b65a4245bb280312f69523e4393c088505b5e9a7e
+size 435
