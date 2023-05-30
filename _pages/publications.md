@@ -7,6 +7,12 @@ author_profile: true
 
 ## Journal articles
 
+Jamieson, S.S.R., Ross, N., Paxman, G.J.G., **Clubb, F.J.**, Young, D.A., Yan, S., Greenbaum, J., Roberts, J., Blankenship, D.D., Siegert, M.J. (in review) An ancient river landscape preserved beneath the East Antarctic Ice Sheet, _Nature Communications_
+
+Zondervan, J.R., Hilton, R.G., Dellinger, M., **Clubb, F.J.**, Roylands, T., and Ogrič, M. (in review) Global rock organic carbon oxidation CO<sub>2</sub> release negates silicate weathering, _Nature_
+
+**Clubb, F.J.**, Mudd, S.M., Schildgen, T.F., van der Beek, P.A., Devrani, R., and Sinclair, H.D. (accepted) Himalayan valley-floor widths controlled by tectonics rather than water discharge, _Nature Geoscience_, [](https://www.researchsquare.com/article/rs-2065309/v1)
+
 **Clubb, F.J.**, Weir. E.F., and Mudd. S.M. (2022) Continuous measurements of valley floor width in mountainous landscapes, _Earth Surface Dynamics_ [](https://doi.org/10.5194/esurf-10-437-2022)
 
 Gailleton, B., Mudd, S.M., **Clubb, F.J.**, Grieve, S.W.D., and Hurst, M.D. (2021) Impact of changing concavity indices on channel steepness and divide migration metrics, _Journal of Geophysical Research: Earth Surface_, [](https://doi.org/10.1029/2020JF006060)
