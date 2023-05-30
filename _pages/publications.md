@@ -11,11 +11,11 @@ Jamieson, S.S.R., Ross, N., Paxman, G.J.G., **Clubb, F.J.**, Young, D.A., Yan, S
 
 Zondervan, J.R., Hilton, R.G., Dellinger, M., **Clubb, F.J.**, Roylands, T., and Ogrič, M. (in review) Global rock organic carbon oxidation CO<sub>2</sub> release negates silicate weathering, _Nature_
 
-**Clubb, F.J.**, Mudd, S.M., Schildgen, T.F., van der Beek, P.A., Devrani, R., and Sinclair, H.D. (accepted) Himalayan valley-floor widths controlled by tectonics rather than water discharge, _Nature Geoscience_, [](https://www.researchsquare.com/article/rs-2065309/v1)
+**Clubb, F.J.**, Mudd, S.M., Schildgen, T.F., van der Beek, P.A., Devrani, R., and Sinclair, H.D. (accepted) Himalayan valley-floor widths controlled by tectonics rather than water discharge, _Nature Geoscience_ [Preprint](https://www.researchsquare.com/article/rs-2065309/v1)
 
-**Clubb, F.J.**, Weir. E.F., and Mudd. S.M. (2022) Continuous measurements of valley floor width in mountainous landscapes, _Earth Surface Dynamics_ [](https://doi.org/10.5194/esurf-10-437-2022)
+**Clubb, F.J.**, Weir. E.F., and Mudd. S.M. (2022) Continuous measurements of valley floor width in mountainous landscapes, _Earth Surface Dynamics_ [Link to paper](https://doi.org/10.5194/esurf-10-437-2022)
 
-Gailleton, B., Mudd, S.M., **Clubb, F.J.**, Grieve, S.W.D., and Hurst, M.D. (2021) Impact of changing concavity indices on channel steepness and divide migration metrics, _Journal of Geophysical Research: Earth Surface_, [](https://doi.org/10.1029/2020JF006060)
+Gailleton, B., Mudd, S.M., **Clubb, F.J.**, Grieve, S.W.D., and Hurst, M.D. (2021) Impact of changing concavity indices on channel steepness and divide migration metrics, _Journal of Geophysical Research: Earth Surface_, [Link to paper](https://doi.org/10.1029/2020JF006060)
 
 **Clubb, F.J**, Mudd, S.M., Hurst, M.D., and Grieve, S.W.D. (2020) Differences in channel and hillslope geometry record a migrating uplift wave at the Mendocino Triple Junction, _Geology_, 48(2), 184-188, doi:10.1130/G46939.1
 
