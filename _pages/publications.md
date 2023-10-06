@@ -7,9 +7,9 @@ author_profile: true
 
 ## Journal articles
 
-Jamieson, S.S.R., Ross, N., Paxman, G.J.G., **Clubb, F.J.**, Young, D.A., Yan, S., Greenbaum, J., Roberts, J., Blankenship, D.D., Siegert, M.J. (in review) An ancient river landscape preserved beneath the East Antarctic Ice Sheet, _Nature Communications_
+Jamieson, S.S.R., Ross, N., Paxman, G.J.G., **Clubb, F.J.**, Young, D.A., Yan, S., Greenbaum, J., Roberts, J., Blankenship, D.D., Siegert, M.J. (accepted) An ancient river landscape preserved beneath the East Antarctic Ice Sheet, _Nature Communications_
 
-Zondervan, J.R., Hilton, R.G., Dellinger, M., **Clubb, F.J.**, Roylands, T., and Ogrič, M. (accepted) Global rock organic carbon oxidation CO<sub>2</sub> release negates silicate weathering, _Nature_
+Zondervan, J.R., Hilton, R.G., Dellinger, M., **Clubb, F.J.**, Roylands, T., and Ogrič, M. (2023) Rock organic carbon oxidation CO<sub>2</sub> release offsets silicate weathering sink, _Nature_. [Link](https://www.nature.com/articles/s41586-023-06581-9)
 
 **Clubb, F.J.**, Mudd, S.M., Schildgen, T.F., van der Beek, P.A., Devrani, R., and Sinclair, H.D. (2023) Himalayan valley-floor widths controlled by tectonically-driven exhumation, _Nature Geoscience_ 16, 739-746. [Link](https://www.nature.com/articles/s41561-023-01238-8)
 
@@ -19,7 +19,7 @@ Gailleton, B., Mudd, S.M., **Clubb, F.J.**, Grieve, S.W.D., and Hurst, M.D. (202
 
 **Clubb, F.J**, Mudd, S.M., Hurst, M.D., and Grieve, S.W.D. (2020) Differences in channel and hillslope geometry record a migrating uplift wave at the Mendocino Triple Junction, _Geology_, 48(2), 184-188. [Link](https://pubs.geoscienceworld.org/gsa/geology/article/48/2/184/579528/Differences-in-channel-and-hillslope-geometry)
 
-Hurst. M.D. Grieve, S.W.D., **Clubb, F.J.**, and Mudd, S.M. (2019) Detection of channel-hillslope coupling along a tectonic gradient, _EPSL_, 522, 30-39. [Link](https://www.sciencedirect.com/science/article/pii/S0012821X19303577)
+Hurst. M.D. Grieve, S.W.D., **Clubb, F.J.**, and Mudd, S.M. (2019) Detection of channel-hillslope coupling along a tectonic gradient, _Earth and Planetary Science Letters_, 522, 30-39. [Link](https://www.sciencedirect.com/science/article/pii/S0012821X19303577)
 
 **Clubb, F.J.**, Bookhagen, B., and Rheinwalt, A. (2019) Clustering river profiles to classify geomorphic domains, _Journal of Geophysical Research: Earth Surface_, doi:10.1029/2019JF005025. [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JF005025)
 
