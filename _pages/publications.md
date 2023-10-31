@@ -7,7 +7,9 @@ author_profile: true
 
 ## Journal articles
 
-Jamieson, S.S.R., Ross, N., Paxman, G.J.G., **Clubb, F.J.**, Young, D.A., Yan, S., Greenbaum, J., Roberts, J., Blankenship, D.D., Siegert, M.J. (2023) An ancient river landscape preserved beneath the East Antarctic Ice Sheet, _Nature Communications_. [Link] (https://www.nature.com/articles/s41467-023-42152-2#Sec3)
+Towers, A., Mudd, S.M., Attal, M., **Clubb, F.J.**, Binnie, S., Dunai, T., and Haghipour, N. (submitted) Denudation rates and Holocene sediment storage dynamics inferred from in-situ 14C concentrations in the Feshie basin, Scotland, _Earth Surface Processes and Landforms_
+
+Jamieson, S.S.R., Ross, N., Paxman, G.J.G., **Clubb, F.J.**, Young, D.A., Yan, S., Greenbaum, J., Roberts, J., Blankenship, D.D., Siegert, M.J. (2023) An ancient river landscape preserved beneath the East Antarctic Ice Sheet, _Nature Communications_. [Link](https://www.nature.com/articles/s41467-023-42152-2#Sec3)
 
 Zondervan, J.R., Hilton, R.G., Dellinger, M., **Clubb, F.J.**, Roylands, T., and Ogrič, M. (2023) Rock organic carbon oxidation CO<sub>2</sub> release offsets silicate weathering sink, _Nature_. [Link](https://www.nature.com/articles/s41586-023-06581-9)
 
