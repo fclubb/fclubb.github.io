@@ -28,6 +28,7 @@ Education
 
 Grants and Awards
 ======
+* European Geosciences Union Outstanding Early Career Scientist Award, 2024. Geomorphology Division
 * Code for Science and Society Event Fund, 2020. Reproducible Silicon Landscapes: $18,187. Co-Lead Investigator.
 * British Society for Geomorphology Early Career Researcher Grant, 2019. Determining the topographic signature of debris flows: £3,500.
 * GeoX Young Academy Fellowship, Fusion of high-resolution point cloud and spectral data for deriving

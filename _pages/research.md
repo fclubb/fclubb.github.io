@@ -5,22 +5,26 @@ permalink: /research/
 author_profile: true
 ---
 
-## Structure and organisation of fluvial networks
+## Research interests
 
-I investigate how climate and tectonics control the structure and organisation of fluvial networks, such as the drainage density, channel steepness, and planform geometry of networks. I use high-resolution topographic data to explore the links between climate, tectonics, and fluvial network structure from a range of landscapes.
+I investigate how climate and tectonics control the structure and organisation of fluvial networks, such as the drainage density, channel steepness, and planform geometry of networks. I use high-resolution topographic data to explore the links between climate, tectonics, and fluvial network structure from a range of landscapes, and combine this with detailed fieldwork and cosmogenic radionuclide dating.
 
 ![](/images/google-earth-view-2042.jpg "River networks from Google Earth View")
 _Credit: Google Earth View_
+---
+### Valley geometry and sediment storage
+
+Wide, flat valley floors tend to be where sediment generated at high elevations is stored as it is transported downstream to ocean basins. This floodplain sediment is an important control on flood hazard: sediment deposition can reduce channel conveyance capacity, therefore increasing flood risk. As floods travel downstream, they can also entrain sediment stored within the valley floor. This causes sediment-rich flows, which travel vast distances compared to clearwater flows, causing loss of life and damage to infrastructure. Sediment stored within mountain valleys therefore acts as a linking node between upstream hazards, i.e. earthquakes, landsliding, debris flows, and downstream hazards, i.e. floods.
+
+Sediment storage is controlled by valley shape, yet we are currently unable to explain what controls the size and dynamics of mountain floodplains. We lack data on the morphology of valley floors and the rates of lateral erosion and are hence unable to predict floodplain evolution. I have recently developed new tools to quantify valley width from digital elevation models, published in [Earth Surface Dynamics](https://esurf.copernicus.org/articles/10/437/2022/). I have then been using these tools to explore climatic and tectonic controls on valley formation across orogens, such as my work on the Himalaya published in [Nature Geoscience](https://www.nature.com/articles/s41561-023-01238-8).
+
+<img src="/images/himalaya_width.jpg" alt="Valley width across the Himalayan orogen" width="1000"/>
+
 
 ---
+### Tectonics from topography
 
-### Landscapes and tectonics along the San Andreas Fault
-
-I'm interested in understanding how the shape of the topography is related to the tectonic motion along the San Andreas Fault.  I’m currently working at the Mendocino Triple Junction, California, where there is a large variation in uplift rates along the strike of the fault.
-
-I'm analysing a series of river basins along the Californian coast where uplift varies from a maximum of 4 mm/year at Cape Mendocino, to 0.5 mm/year near Fort Bragg. I’m looking to see whether we can detect a signature of this change in the steepness of the rivers, hillslopes, and hilltops.
-
-Alongside this work, I am also interested in understanding how the morphology of river profiles along the entire San Andreas fault is related to both long-term uplift rates from thermochronometry, and short-term uplift rates from GPS data.
+I'm interested in understanding how we can best quantify the shape of Earth's topography and relate it to tectonic motion. I couple analysis of hilltops, hillslopes, and rivers, to explore both spatial and temporal variations in tectonic uplift. An example of this is my work on the Mendocino Triple Junction, California, published in [Geology](https://pubs.geoscienceworld.org/gsa/geology/article/48/2/184/579528/Differences-in-channel-and-hillslope-geometry), and our work on the Bolinas Ridge along the San Andreas Fault, published in [Earth and Planetary Science Letters](https://www.sciencedirect.com/science/article/pii/S0012821X19303577).
 
 <img src="/images/san_andreas.jpg" alt="san andreas" width="1000"/>
 _Credit: U.S. Geological Survey_
@@ -28,33 +32,10 @@ _Credit: U.S. Geological Survey_
 You can watch a talk I gave on this research as part of the [Landscapes Live](https://osur.univ-rennes1.fr/LandscapesLive/) online seminar series here:
 
 [![Landscapes Live Seminar](http://img.youtube.com/vi/zPFLuPouSLk/0.jpg)](http://www.youtube.com/watch?v=zPFLuPouSLk "Landscapes Live Seminar")
----
-
-### Clustering techniques for river profiles
-
-As part of my post-doctoral work at the University of Potsdam, I developed techniques for clustering river profiles to identify landscape heterogeneity, such as varying rock types or climatic and tectonic gradients. I separate the river network by stream order, and then use agglomerative hierarchical clustering to find groups of streams with similar morphologies.  This technique has lots of exciting applications, including mapping of landscape transience, detection of debris flow domains from topography, and improving our ability to map channel steepness.
-
-The code for the clustering is freely available on [GitHub](https://github.com/UP-RS-ESP/river-clusters). Tutorials for how to run it are coming soon.
 
 ---
 
-### Landscape evolution modelling
-
-I like to use numerical models of landscape evolution to test new techniques for analysing topography. I'm a fan of the [Fastscape](https://github.com/fastscape-lem) model, as well as our own implementation of the Fastscape algorithm in [MuddPILE](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_MuddPILE.html).
-
-I have been running some simple models with varying bedrock lithology to test my clustering algorithm.  See below for an example of how different the speed of propagation of transient signals through a river network can be based on a simple change in erodibility.
-
-<figure class="video_container">
-<video width="500" height="340" controls="true">
-  <source src="/videos/spatial_K_movie.mp4" type="video/mp4">
-</video>
-</figure>
-
-_Top half of the model domain is a harder rock type, bottom half is a softer rock type. Note the difference in dissection time between the two._
-
----
-
-## Open source software for topographic analysis
+### Open source software for topographic analysis
 
 <img src="/images/LSD-logo_horizontal.png" alt="LSDTopoTools" width="600" align="center"/>
 
@@ -65,3 +46,5 @@ I’ve been developing this software, called LSDTopoTools, since my PhD along wi
 You can see our [LSDTopoTools website](lsdtopotools.github.io) for more details, or check out our [GitHub organisation](https://github.com/LSDtopotools).
 
 We have developed lots of novel techniques for analysing topography, such as extracting channel networks, delineating floodplains and river terraces, and calculating hilltop and hillslope metrics.
+
+I have developed techniques for clustering river profiles to identify landscape heterogeneity, such as varying rock types or climatic and tectonic gradients. I separate the river network by stream order, and then use agglomerative hierarchical clustering to find groups of streams with similar morphologies.  This technique has lots of exciting applications, including mapping of landscape transience, detection of debris flow domains from topography, and improving our ability to map channel steepness. The code for the clustering is freely available on [GitHub](https://github.com/UP-RS-ESP/river-clusters).
