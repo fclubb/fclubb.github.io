@@ -25,10 +25,12 @@ Education
 ======
 * B.Sc. in Geology and Physical Geography, University of Edinburgh, 2013
 * Ph.D in Atomspheric and Environmental Sciences, University of Edinburgh, 2017. _Controls on fluvial networks in upland landscapes: from hillslopes to floodplains_
+* PGCAP and Fellow of the HEA, Durham University, 2023
 
 Grants and Awards
 ======
-* European Geosciences Union Outstanding Early Career Scientist Award, 2024. Geomorphology Division
+* European Geosciences Union [Outstanding Early Career Scientist Award](https://www.egu.eu/awards-medals/division-outstanding-ecs-award/2024/fiona-j-clubb/), 2024. Geomorphology Division
+* NERC and MoES (India) Solid Earth Hazards Call, 2024 - 2028. Dynamic risks for cascading Himalayan hazards: £850,443 plus match funding. Co-I/Work Package Lead.
 * Code for Science and Society Event Fund, 2020. Reproducible Silicon Landscapes: $18,187. Co-Lead Investigator.
 * British Society for Geomorphology Early Career Researcher Grant, 2019. Determining the topographic signature of debris flows: £3,500.
 * GeoX Young Academy Fellowship, Fusion of high-resolution point cloud and spectral data for deriving
@@ -45,6 +47,9 @@ fieldwork.
 
 Invited Talks
 ======
+* Going beyond the river long profile, GM Division Outstanding Early Career Scientist Award Lecture, EGU General Assembly 2024 [Link to abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-6103.html)
+* Controls on mountain sediment storage across the Himalaya, Hutton Club, University of Edinburgh, January 2024. 
+* Open-source software for topographic analysis and applications to the Himalayan orogen, Department of Geology, Tribhuvan University Nepal, November 2023
 * Tectonic and climatic controls on mountain sediment storage, School of Geographical & Earth Sciences, University of Glasgow, May 2023
 * Controls on valley-floor width across the Himalayan orogen, EGU General Assembly 2023, Session GM9.1 - Interactions between tectonics, climate and surface processes from mountain belts to basins [Link to abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-3502.html)
 * How wide are Himalayan river valleys? Department of Earth Sciences, University College London, October 2022
@@ -70,5 +75,7 @@ Service
 and sediment production, transport and deposition across landscapes
 * Co-convener, AGU Fall Meeting 2017. Session EP31E: Changing the Channel: Fluvial System Response
 to Climate and Land Use Change
-* Journal peer reviewer, Earth Surface Dynamics, Journal of Geophysical Research-Earth Surface, Geoscientific Model Development, Advances in Water Resources, Earth Surface Processes and Landforms, Geomorphology
-* National Science Foundation proposal reviewer
+* Peer reviewer for > 15 international journals, e.g. Science Advances, Geology, Journal of Geophysical Research, American Journal of Science. 
+* Proposal reviewer for National Science Foundation (NSF), German Research Foundation (DFG)
+* Member of European Geosciences Union Bagnold Medal Committee, 2024 – 2026.
+
