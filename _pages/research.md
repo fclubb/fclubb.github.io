@@ -11,6 +11,7 @@ I investigate how climate and tectonics control the structure and organisation o
 
 ![](/images/google-earth-view-2042.jpg "River networks from Google Earth View")
 _Credit: Google Earth View_
+
 ---
 ### Valley geometry and sediment storage
 
@@ -18,7 +19,7 @@ Wide, flat valley floors tend to be where sediment generated at high elevations 
 
 Sediment storage is controlled by valley shape, yet we are currently unable to explain what controls the size and dynamics of mountain floodplains. We lack data on the morphology of valley floors and the rates of lateral erosion and are hence unable to predict floodplain evolution. I have recently developed new tools to quantify valley width from digital elevation models, published in [Earth Surface Dynamics](https://esurf.copernicus.org/articles/10/437/2022/). I have then been using these tools to explore climatic and tectonic controls on valley formation across orogens, such as my work on the Himalaya published in [Nature Geoscience](https://www.nature.com/articles/s41561-023-01238-8).
 
-<img src="/images/himalaya_width.jpg" alt="Valley width across the Himalayan orogen" width="1000"/>
+<img src="/images/himalaya_width.jpg" alt="Valley width across the Himalayan orogen" width="800" align="center"/>
 
 
 ---
