@@ -23,7 +23,7 @@ change on flood risk in Scotland.
 
 Education
 ======
-* B.Sc. in Geology and Physical Geography, University of Edinburgh, 2013. _First Class Honours_
+* B.Sc. in Geology and Physical Geography, University of Edinburgh, 2013. First Class Honours
 * Ph.D in Atomspheric and Environmental Sciences, University of Edinburgh, 2017. _Controls on fluvial networks in upland landscapes: from hillslopes to floodplains._ Passed with no corrections
 * PGCAP and Fellow of the HEA, Durham University, 2023
 
