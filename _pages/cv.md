@@ -44,6 +44,7 @@ fieldwork.
 * British Society for Geomorphology, Postgraduate Research Grant, 2014: £1000. Awarded for research
 fieldwork.
 * Carnegie Trust for the Universities of Scotland, Carnegie-Caledonian PhD Scholarship, October 2013 - 2016. Awarded for three years including tuition fees and stipend.
+* Edinburgh Geological Society Medal for top-performing geosciences student in final year of undergraduate study, 2013.
 
 Invited Talks
 ======
