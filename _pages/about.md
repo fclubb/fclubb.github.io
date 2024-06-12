@@ -29,8 +29,6 @@ I'm currently interested in recruiting for PhD and post-doctoral positions in te
 
 **We am currently hiring for a 2-year post-doctoral research associate** associated by the NERC and Indian Ministry of Earth Sciences-funded project “Dynamic Risks for Cascading Himalayan Hazards". The PDRA will be focused on quantitative geomorphology and will work on cascading landslide and flood hazards in the Garhwal Himalaya, India. For more details and to apply, please see the job description [here](https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=24000714&tz=GMT%2B01%3A00&tzname=Europe%2FLondon).
 
-1. Controls on valley 
-
 ### Post-doctoral fellowships
 
 There are a number of different fellowships which you can apply for to work at Durham University. Please note that all these schemes are competitive and require a strong CV and project idea. I'm happy to help support interested candidates! Potential schemes are:
