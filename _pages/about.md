@@ -25,6 +25,12 @@ My research involves developing open-source software for analysing topographic d
 
 I'm currently interested in recruiting for PhD and post-doctoral positions in tectonic geomorphology, fluvial geomorphology, geohazards, and topographic analysis. Please get in touch with ideas for potential projects and we can discuss funding opportunities.
 
+### Open postdoctoral positions 
+
+**I currently have two open postdoctoral positions:**
+
+1. Controls on valley 
+
 ### Post-doctoral fellowships
 
 There are a number of different fellowships which you can apply for to work at Durham University. Please note that all these schemes are competitive and require a strong CV and project idea. I'm happy to help support interested candidates! Potential schemes are:
@@ -38,7 +44,7 @@ There are a number of different fellowships which you can apply for to work at D
 Durham University is part of the NERC-funded IAPETUS2 DTP, which has a number of PhD studentships available each year. See the [IAPETUS2 website](http://www.iapetus.ac.uk) for more details of available projects and deadlines.
 
 ---
-## Current students
+## Current PhD students
 
 * **Mel Oliveira-Guirro**, University of Durham, _Scaling sediment connectivity in fluvial systems._ Co-supervised with Prof. Rebecca Hodge and Dr. Laura Turnbull-Lloyd.
 * **Anya Towers**, University of Edinburgh, _The role of coarse sediment in Scottish rivers._ Co-supervised with Prof. Simon Mudd, Dr. Mikael Attal, and the Scottish Environmental Protection Agency.

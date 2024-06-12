@@ -67,7 +67,8 @@ Invited Talks
 
 Service
 ======
-* Associate Editor, Earth Surface Dynamics, 2021-present
+* Associate Editor, _Earth Surface Dynamics_, 2021-present
+* Associate Editor, [_ARC Geophysical Research_](https://arc-alliance.unc.edu/), newly lauched diamond access Geosciences journal 2024-present 
 * Research Secretary, British Society for Geomorphology Research Subcommittee, 2020-2023
 * Co-convener, EGU General Assembly 2019. Making high resolution topographic analysis more reproducible with LSDTopoTools, Short Course.
 * Convener, EGU General Assembly 2019. Session GM2.5/SSP3.28./SSS13.19/TS4.10: Bridging the gap: combining numerical models of surface processes with Earth observations
