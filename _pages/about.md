@@ -27,7 +27,7 @@ I'm currently interested in recruiting for PhD and post-doctoral positions in te
 
 ### Open postdoctoral positions 
 
-**I currently have two open postdoctoral positions:**
+**We am currently hiring for a 2-year post-doctoral research associate** associated by the NERC and Indian Ministry of Earth Sciences-funded project “Dynamic Risks for Cascading Himalayan Hazards". The PDRA will be focused on quantitative geomorphology and will work on cascading landslide and flood hazards in the Garhwal Himalaya, India. For more details and to apply, please see the job description [here](https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=24000714&tz=GMT%2B01%3A00&tzname=Europe%2FLondon).
 
 1. Controls on valley 
 
