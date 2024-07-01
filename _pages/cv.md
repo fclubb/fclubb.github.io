@@ -11,7 +11,8 @@ redirect_from:
 
 Appointments
 ======
-* 2019 - present: Assistant Professor, Department of Geography, Durham University
+* 2024 - present: Associate Professor, Department of Geography, Durham University
+* 2019 - 2024: Assistant Professor, Department of Geography, Durham University
 * 2018 - 2019: GeoX Fellow, Institute of Earth and Environmental Science, University of Potsdam. Fusion of
 high-resolution point cloud and spectral data for deriving topographic metrics.
 Independent fellowship designed to combine mathematics, computer science, and geoscience.
