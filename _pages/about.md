@@ -25,9 +25,6 @@ My research involves developing open-source software for analysing topographic d
 
 I'm currently interested in recruiting for PhD and post-doctoral positions in tectonic geomorphology, fluvial geomorphology, geohazards, and topographic analysis. Please get in touch with ideas for potential projects and we can discuss funding opportunities.
 
-### Open postdoctoral positions 
-
-We are currently hiring for a 2-year post-doctoral research associate associated by the NERC and Indian Ministry of Earth Sciences-funded project _"Dynamic Risks for Cascading Himalayan Hazards"_. The PDRA will be focused on quantitative geomorphology and will work on cascading landslide and flood hazards in the Garhwal Himalaya, India. For more details and to apply, please see the job description [here](https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=24000714&tz=GMT%2B01%3A00&tzname=Europe%2FLondon). **Closing date: 20th June 2024**
 
 ### Post-doctoral fellowships
 
@@ -44,8 +41,15 @@ Durham University is part of the NERC-funded IAPETUS2 DTP, which has a number of
 ---
 ## Current PhD students
 
-* **Mel Oliveira-Guirro**, University of Durham, _Scaling sediment connectivity in fluvial systems._ Co-supervised with Prof. Rebecca Hodge and Dr. Laura Turnbull-Lloyd.
+* **Mel Oliveira-Guirro**, Durham University, _Scaling sediment connectivity in fluvial systems._ Co-supervised with Prof. Rebecca Hodge and Dr. Laura Turnbull-Lloyd.
 * **Anya Towers**, University of Edinburgh, _The role of coarse sediment in Scottish rivers._ Co-supervised with Prof. Simon Mudd, Dr. Mikael Attal, and the Scottish Environmental Protection Agency.
-* **Eliot Weir**, University of Durham, _Rivers in the Himalaya: climatic and tectonic controls on the preservation of  terraces._ Co-supervised with Prof. Alex Densmore and Dr. Martin Hurst.
-* **Edmund Lea**, University of Durham, _Decoding glacial landscapes using automated geomorphological mapping and machine learning._ Co-supervised with Dr. Guy Paxman and Dr. Neil Ross. 
-* **Hakan Hazzard**, University of Durham, _Exploring the landscape beneath the Antarctic Ice Sheet and its influence on ice behaviour._ Co-supervised with Prof. Stew Jamieson, Dr. Tom Jordan, and Dr. Neil Ross.
+* **Eliot Weir**, Durham University, _Rivers in the Himalaya: climatic and tectonic controls on the preservation of  terraces._ Co-supervised with Prof. Alex Densmore and Dr. Martin Hurst.
+* **Edmund Lea**, Durham University, _Decoding glacial landscapes using automated geomorphological mapping and machine learning._ Co-supervised with Dr. Guy Paxman and Dr. Neil Ross. 
+* **Hakan Hazzard**, Durham University, _Exploring the landscape beneath the Antarctic Ice Sheet and its influence on ice behaviour._ Co-supervised with Prof. Stew Jamieson, Dr. Tom Jordan, and Dr. Neil Ross.
+
+## Current Post-Doctoral Research Associates
+
+
+* **Dr Erin Harvey**, Durham University, _Dynamic risks for cascading Himalayan hazards_. Starting January 2025.
+
+* **Dr Aude Lurin**, University of Rennes, _Controls on valley-floor width and lateral erosion rates in confined mountain valleys_. Starting January 2025.
