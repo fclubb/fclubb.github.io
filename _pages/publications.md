@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal articles
 
-Towers, A., Mudd, S.M., Attal, M. and **Clubb, F.J.** (submitted) Controls on fluvial grain sizes in post-glacial landscapes, _Earth Surface Dynamics_
+Towers, A., Mudd, S.M., Attal, M. and **Clubb, F.J.** (in review) Controls on fluvial grain sizes in post-glacial landscapes, _Earth Surface Dynamics_
 
 Oliveira Guirro, M., Hodge, R., **Clubb, F.J.**, and Turnbull, L. (in review) Network-scale dynamics of alluvial cover in a mixed bedrock-alluvial river, _Journal of Geophysical Research: Earth Surface_
 
