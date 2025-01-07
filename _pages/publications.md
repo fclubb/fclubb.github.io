@@ -7,11 +7,11 @@ author_profile: true
 
 ## Journal articles
 
-He, X., Yuan, X., He, C., **Clubb, F.J.**, and Shen, X. (submitted) Strath terrace formation revealed by a fluvial erosion-deposition model considering dynamic channel widths, _Journal of Geophysical Research: Earth Surface_
+He, X., Yuan, X., He, C., **Clubb, F.J.**, and Shen, X. (in review) Strath terrace formation revealed by a fluvial erosion-deposition model considering dynamic channel widths, _Journal of Geophysical Research: Earth Surface_
 
 Towers, A., Mudd, S.M., Attal, M. and **Clubb, F.J.** (in review) Controls on fluvial grain sizes in post-glacial landscapes, _Earth Surface Dynamics_. [Link](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3084/)
 
-Oliveira Guirro, M., Hodge, R., **Clubb, F.J.**, and Turnbull, L. (in review) Network-scale dynamics of alluvial cover in a mixed bedrock-alluvial river, _Journal of Geophysical Research: Earth Surface_
+Oliveira Guirro, M., Hodge, R., **Clubb, F.J.**, and Turnbull, L. (accepted pending revisions) Network-scale dynamics of alluvial cover in a mixed bedrock-alluvial river, _Journal of Geophysical Research: Earth Surface_
 
 Towers, A., Mudd, S.M., Attal, M., **Clubb, F.J.**, Binnie, S., Dunai, T., and Haghipour, N. (in review) Denudation rates and Holocene sediment storage dynamics inferred from in-situ 14C concentrations in the Feshie basin, Scotland, _Earth Surface Processes and Landforms_
 
