@@ -16,6 +16,7 @@ Towers, A., Mudd, S.M., Attal, M. and **Clubb, F.J.** (in review) Controls on fl
 Towers, A., Mudd, S.M., Attal, M., **Clubb, F.J.**, Binnie, S., Dunai, T., and Haghipour, N. (accepted) Denudation rates and Holocene sediment storage dynamics inferred from in-situ 14C concentrations in the Feshie basin, Scotland, _Earth Surface Processes and Landforms_
 
 Oliveira Guirro, M., Hodge, R., **Clubb, F.J.**, and Turnbull, L. (2025) Network-scale dynamics of alluvial cover in a mixed bedrock-alluvial river, _Journal of Geophysical Research: Earth Surface_ 130(3), e2024JF007968. [Link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JF007968?af=R)
+
 Struble, W.T., **Clubb, F.J.**, and Roering, J.J. (2024) Regional-scale, high-resolution measurements of hilltop curvature reveal tectonic, climatic, and lithologic controls on hillslope morphology, _Earth and Planetary Science Letters_ 647, 19044. [Link](https://doi.org/10.1016/j.epsl.2024.119044)
 
 Jamieson, S.S.R., Ross, N., Paxman, G.J.G., **Clubb, F.J.**, Young, D.A., Yan, S., Greenbaum, J., Roberts, J., Blankenship, D.D., Siegert, M.J. (2023) An ancient river landscape preserved beneath the East Antarctic Ice Sheet, _Nature Communications_. [Link](https://www.nature.com/articles/s41467-023-42152-2#Sec3)
