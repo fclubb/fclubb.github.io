@@ -49,8 +49,11 @@ fieldwork.
 
 Invited Talks
 ======
+* Tectonic and climatic controls on valley-floor width along the Alpine Fault, New Zealand, AGU Fall Meeting 2024, Session U31B-05 - Interaction Between Geodynamic, Surface, and Climate Processes Through Space and Time [Link to abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1530880)
+* Himalayan sediment storage and flood hazard, School of Earth and Environmental Sciences, University of Cardiff, November 2024
 * Going beyond the river long profile, GM Division Outstanding Early Career Scientist Award Lecture, EGU General Assembly 2024 [Link to abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-6103.html)
-* Controls on mountain sediment storage across the Himalaya, Hutton Club, University of Edinburgh, January 2024. 
+* What sets bedrock valley-floor width? Géosciences Rennes, University of Rennes, February 2024
+* Controls on mountain sediment storage across the Himalaya, Hutton Club, University of Edinburgh, January 2024
 * Open-source software for topographic analysis and applications to the Himalayan orogen, Department of Geology, Tribhuvan University Nepal, November 2023
 * Tectonic and climatic controls on mountain sediment storage, School of Geographical & Earth Sciences, University of Glasgow, May 2023
 * Controls on valley-floor width across the Himalayan orogen, EGU General Assembly 2023, Session GM9.1 - Interactions between tectonics, climate and surface processes from mountain belts to basins [Link to abstract](https://meetingorganizer.copernicus.org/EGU23/EGU23-3502.html)
@@ -72,10 +75,10 @@ Service
 * Associate Editor, _Earth Surface Dynamics_, 2021-present
 * Associate Editor, [_ARC Geophysical Research_](https://arc-alliance.unc.edu/), newly lauched diamond access Geosciences journal, 2024-present 
 * Research Secretary, British Society for Geomorphology Research Subcommittee, 2020-2023
+* Co-convener, EGU General Assembly 2025. Cascading and compounding hazards in high mountains. 
 * Co-convener, EGU General Assembly 2019. Making high resolution topographic analysis more reproducible with LSDTopoTools, Short Course.
-* Convener, EGU General Assembly 2019. Session GM2.5/SSP3.28./SSS13.19/TS4.10: Bridging the gap: combining numerical models of surface processes with Earth observations
-* Convener, EGU General Assembly 2018. Session GM2.5/SSP3.28./SSS13.19/TS4.10: Modelling erosion
-and sediment production, transport and deposition across landscapes
+* Convener, EGU General Assembly 2019 - 2024. Bridging the gap: combining numerical models of surface processes with Earth observations
+* Convener, EGU General Assembly 2018. Modelling erosion and sediment production, transport and deposition across landscapes
 * Co-convener, AGU Fall Meeting 2017. Session EP31E: Changing the Channel: Fluvial System Response
 to Climate and Land Use Change
 * Peer reviewer for > 15 international journals, e.g. Science Advances, Geology, Journal of Geophysical Research, American Journal of Science. 
