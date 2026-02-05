@@ -7,13 +7,12 @@ author_profile: true
 
 ## Journal articles
 
-**Clubb, F.J.**, Dingle, E.H., Small, D., and Towers, A.H. (in review) Dynamic response of post-orogenic landscapes to glacially conditioned drainage capture, _Geology_ 
 
-He, X., Yuan, X., He, C., **Clubb, F.J.**, and Shen, X. (in review) Strath terrace formation revealed by a fluvial erosion-deposition model considering dynamic channel widths, _Journal of Geophysical Research: Earth Surface_
+He, X., Yuan, X., He, C., **Clubb, F.J.**, and Shen, X. (2026) Climate-driven strath terrace formation revealed by a fluvial erosion-deposition model considering channel widths, _Journal of Geophysical Research: Earth Surface_. [Link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JF008594)
 
-Towers, A., Mudd, S.M., Attal, M. and **Clubb, F.J.** (in review) Controls on fluvial grain sizes in post-glacial landscapes, _Earth Surface Dynamics_. [Link](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3084/)
+Towers, A., Mudd, S.M., Attal, M. and **Clubb, F.J.** (2026) Investigating controls on fluvial grain sizes in post-glacial landscapes using citizen science, _Earth Surface Dynamics_. [Link](https://esurf.copernicus.org/articles/14/95/2026/)
 
-Towers, A., Mudd, S.M., Attal, M., **Clubb, F.J.**, Binnie, S., Dunai, T., and Haghipour, N. (accepted) Denudation rates and Holocene sediment storage dynamics inferred from in-situ 14C concentrations in the Feshie basin, Scotland, _Earth Surface Processes and Landforms_
+Towers, A., Mudd, S.M., Attal, M., **Clubb, F.J.**, Binnie, S., Dunai, T., and Haghipour, N. (2025) Denudation rates and Holocene sediment storage dynamics inferred from in-situ 14C concentrations in the Feshie basin, Scotland, _Earth Surface Processes and Landforms_ [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.70043)
 
 Oliveira Guirro, M., Hodge, R., **Clubb, F.J.**, and Turnbull, L. (2025) Network-scale dynamics of alluvial cover in a mixed bedrock-alluvial river, _Journal of Geophysical Research: Earth Surface_ 130(3), e2024JF007968. [Link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JF007968?af=R)
 
