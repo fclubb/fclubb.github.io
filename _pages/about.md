@@ -41,11 +41,15 @@ Durham University is part of the NERC-funded IAPETUS2 DTP, which has a number of
 ---
 ## Current PhD students
 
-* **Mel Oliveira-Guirro**, Durham University, _Scaling sediment connectivity in fluvial systems._ Co-supervised with Prof Rebecca Hodge and Dr Laura Turnbull-Lloyd.
-* **Anya Towers**, University of Edinburgh, _The role of coarse sediment in Scottish rivers._ Co-supervised with Prof Simon Mudd, Dr Mikael Attal, and the Scottish Environmental Protection Agency.
 * **Eliot Weir**, Durham University, _Rivers in the Himalaya: climatic and tectonic controls on the preservation of  terraces._ Co-supervised with Prof Alex Densmore and Dr Martin Hurst.
 * **Edmund Lea**, Durham University, _Decoding glacial landscapes using automated geomorphological mapping and machine learning._ Co-supervised with Dr Guy Paxman and Prof Neil Ross. 
 * **Hakan Hazzard**, Durham University, _Exploring the landscape beneath the Antarctic Ice Sheet and its influence on ice behaviour._ Co-supervised with Prof Stew Jamieson, Dr Tom Jordan, and Prof Neil Ross.
+* **Yanglin Zhao**, University of Glasgow. _Relict landscapes as archives of past climatic and tectonic conditions._ Co-supervised with Dr Paul Eizenhöfer, Prof Mark Allen, Dr Martin Hurst, and Dr Mu Niu.
+
+## Former PhD students
+
+* **Mel Oliveira-Guirro**, Durham University, _Scaling sediment connectivity in fluvial systems._ Co-supervised with Prof Rebecca Hodge and Dr Laura Turnbull-Lloyd. Currently Engineering Hydrologist at Climatempo, Brazil. 
+* **Anya Towers**, University of Edinburgh, _The role of coarse sediment in Scottish rivers._ Co-supervised with Prof Simon Mudd, Dr Mikael Attal, and the Scottish Environmental Protection Agency. Currently Environmental Data Specialist at the Joint Nature Conservation Committee, UK. 
 
 ## Current Post-Doctoral Research Associates
 
