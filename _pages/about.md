@@ -51,6 +51,10 @@ Durham University is part of the NERC-funded IAPETUS2 DTP, which has a number of
 * **Mel Oliveira-Guirro**, Durham University, _Scaling sediment connectivity in fluvial systems._ Co-supervised with Prof Rebecca Hodge and Dr Laura Turnbull-Lloyd. Currently Engineering Hydrologist at Climatempo, Brazil. 
 * **Anya Towers**, University of Edinburgh, _The role of coarse sediment in Scottish rivers._ Co-supervised with Prof Simon Mudd, Dr Mikael Attal, and the Scottish Environmental Protection Agency. Currently Environmental Data Specialist at the Joint Nature Conservation Committee, UK. 
 
+## Current MSc students
+
+* **Nancy Howe**, Durham University, _Reconstructing the magnitude and characteristics of the 2013 Kedarnath disaster using its geomorphic signature._ Co-supervised with Dr Erin Harvey.
+
 ## Current Post-Doctoral Research Associates
 
 
