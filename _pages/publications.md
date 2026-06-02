@@ -10,7 +10,9 @@ author_profile: true
 
 Paxman, G.J.G., **Clubb, F.J.**, Jamieson, S.S.R., and Densmore, A.L. (preprint) Valley longitudinal profiles record the fluvial landscape evolution and geological structure of the Gamburtsev Subglacial Mountains, East Antarctica, _EGUsphere_ [Link](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-847/)
 
-Lea, E., Paxman, G.J.G., **Clubb, F.J.**, and Ross, N. (in press) Continental-scale machine-learning classification of Arctic glacial landscapes using simple morphometrics, _Journal of Geophysical Research: Earth Surface_.
+Tofelde, S., **Clubb, F.J.**, and Bookhagen, B. (in press) Controls on valley-floor width in the western Andes, _Journal of Geophysical Research: Earth Surface_. 
+
+Lea, E., Paxman, G.J.G., **Clubb, F.J.**, and Ross, N. (2026) Continental-scale machine-learning classification of Arctic glacial landscapes using simple morphometrics, _Journal of Geophysical Research: Earth Surface_. [Link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JF008661)
 
 He, X., Yuan, X., He, C., **Clubb, F.J.**, and Shen, X. (2026) Climate-driven strath terrace formation revealed by a fluvial erosion-deposition model considering channel widths, _Journal of Geophysical Research: Earth Surface_. [Link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JF008594)
 
